@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\vs2022\Project2\Project2\main.cpp(73,40): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\vs2022\Project2\Project2\main.cpp(74,40): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Project2.vcxproj -> D:\vs2022\Project2\x64\Debug\Project2.exe
