@@ -1,2 +1,2 @@
 # assaultCube_aimbot
-### an easy demo for assaultcube
+### an easy aimbot demo for assaultcube
